@@ -1,0 +1,16 @@
+{
+    "name": "benti/laravel",
+    "description": "progetto/esercitazione",
+    "autoload": {
+        "psr-4": {
+            "Benti\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sara Benti",
+            "email": "sara.bentivegni@enaipriminifad.org"
+        }
+    ],
+    "require": {}
+}

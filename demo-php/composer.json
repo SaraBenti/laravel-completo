@@ -1,0 +1,19 @@
+{
+    "name": "enaip/demo",
+    "description": "Pacchetto demo di prova",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Enaip\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sara Bentivegni"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.7"
+    }
+}
